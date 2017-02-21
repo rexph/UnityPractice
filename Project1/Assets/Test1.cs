@@ -6,11 +6,11 @@ public class Test1 : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
-	}
+        Debug.Log("This log is added by Suzuki");
+    }
 	
 	// Update is called once per frame
 	void Update () {
-		Condole.Log("This log is added by Suzuki");
+        //Debug.Log("This log is added by Suzuki");
 	}
 }
