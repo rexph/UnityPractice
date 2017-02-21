@@ -11,6 +11,6 @@ public class Test1 : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		Condole.Log("This log is added by Suzuki");
 	}
 }
